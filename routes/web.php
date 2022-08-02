@@ -22,3 +22,5 @@ Route::get('test', function () {});
 Route::get('test-2', function () {});
 
 Route::get('test-3', function () {});
+
+Route::get('dev', function () {});
